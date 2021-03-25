@@ -1,0 +1,7 @@
+"""
+pytorch内置的GeneralizeRCNN的实现已经不是原始的RCNN了
+原始的RCNN非常朴素地先提取出2000个region，然后对每个region提取特征并进去后面的分类和回归模型，计算量非常庞大
+GeneralizeRCNN的实现中采用了FastRCNN的思路，先提取出所有feature map，然后在原图上提取region并映射会feature map上，然后再进入最后的模型
+
+由于原始的RCNN的效率上确实比较差，现在也几乎没有单独使用它的必要了，暂时没有什么动力用pytorch实现它，这里先占个坑吧。
+"""

@@ -1,0 +1,17 @@
+This Repository uses Pytorch to implement milestone models(in my opinion) of objection detection.
+
++ [ ] 01_RCNN,
++ [ ] 02_OverFeat,
++ [ ] 03_Fast_RCNN,
++ [x] 04_Faster_RCNN,
++ [ ] 05_OHEM,
++ [x] 06_YOLO_v1,
++ [x] 07_SSD,
++ [x] 08_R_FCN,
++ [x] 09_YOLO_v2,
++ [x] 10_FPN,
++ [x] 11_RetinaNet,
++ [x] 12_Mask_RCNN,
++ [x] 13_YOLO_v3,
++ [x] 14_RefineDet,
++ [x] 15_M2Det,
