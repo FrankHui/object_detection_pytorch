@@ -3,7 +3,7 @@
 因为能力有限或者其他原因，我不能保证模型都完美地复现论文的细节，只希望能抓大放小。同时，我本人也不期望这里的模型能达到生产级别。
 
 This Repository uses Pytorch to implement milestone models(in my opinion) of objection detection.
-<br/>I hope it can help you study and use these great models by same style codes in order to decrease learning costs, just as what we do to models.</br>
+<br/>I hope it can help you study and use these great models with less learning cost by same style codes.</br>
 Due to limited capacity, I won't implement all the details of origin papers but only focus on key points. 
 Besides, models here are not necessarily good enough to be used directly for production environment.  
 
